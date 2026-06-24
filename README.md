@@ -143,4 +143,4 @@ and execute the notebook sequentially.
 
 Johny Ijaq
 
-Bioinformatics Scientist | Spatial Omics | Multi-Omics Data Analysis | Machine Learning for Healthcare
+Bioinformatics Scientist 
