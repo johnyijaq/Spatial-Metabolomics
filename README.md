@@ -1,4 +1,4 @@
-# Spatial Metabolomics Analysis Using Scanpy and Python
+# Spatial Metabolomics Analysis 
 
 ## Overview
 
