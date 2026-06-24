@@ -65,32 +65,6 @@ Both datasets were merged into a single AnnData object for integrated analysis.
 
 ---
 
-## Key Results
-
-### Spatial Organization of Metabolism
-
-The analysis identified multiple metabolically distinct clusters exhibiting spatially coherent tissue distributions.
-
-### Spatially Variable Metabolites
-
-Moran's I analysis revealed metabolites with strong spatial autocorrelation, indicating localized metabolic programs within the tissue.
-
-### Differential Metabolite Abundance
-
-Differential analyses identified metabolites associated with:
-
-* Specific Leiden clusters
-* Tissue ROIs
-* Sample-specific metabolic differences
-
-### Network-Level Relationships
-
-Correlation network analysis highlighted coordinated metabolite abundance patterns and potential metabolic modules.
-
----
-
-## Technologies Used
-
 ### Programming Languages
 
 * Python
@@ -112,7 +86,6 @@ Correlation network analysis highlighted coordinated metabolite abundance patter
 * AnnData (`.h5ad`)
 
 ---
-
 
 ## Reproducibility
 
